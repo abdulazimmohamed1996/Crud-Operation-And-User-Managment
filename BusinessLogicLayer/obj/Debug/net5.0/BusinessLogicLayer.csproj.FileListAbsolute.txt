@@ -1,0 +1,30 @@
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.deps.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CopyComplete
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\obj\Debug\net5.0\refint\BusinessLogicLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\BusinessLogicLayer\obj\Debug\net5.0\ref\BusinessLogicLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.deps.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CopyComplete
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\obj\Debug\net5.0\refint\BusinessLogicLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\BusinessLogicLayer\obj\Debug\net5.0\ref\BusinessLogicLayer.dll

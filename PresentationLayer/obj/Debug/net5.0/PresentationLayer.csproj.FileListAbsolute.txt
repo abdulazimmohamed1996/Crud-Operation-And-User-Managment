@@ -1,0 +1,952 @@
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\appsettings.Development.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\appsettings.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\libman.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\PresentationLayer.exe
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\PresentationLayer.deps.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\PresentationLayer.runtimeconfig.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\PresentationLayer.runtimeconfig.dev.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\PresentationLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\PresentationLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\mscorlib.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\netstandard.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.AppContext.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Buffers.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Collections.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Configuration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Console.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Data.Common.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Data.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Drawing.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Globalization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Compression.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Linq.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Memory.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Http.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Mail.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Ping.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Requests.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Security.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Numerics.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.ObjectModel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Claims.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Principal.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Text.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Transactions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.ValueTuple.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Web.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Windows.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\refs\WindowsBase.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\PresentationLayer.Views.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\PresentationLayer.Views.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\AutoMapper.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Humanizer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\Newtonsoft.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\System.Composition.Convention.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\System.Composition.Hosting.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\System.Composition.Runtime.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\System.Composition.TypedParts.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\System.Runtime.Caching.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\BusinessLogicLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\DataAccessLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\BusinessLogicLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.AssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.RazorAssemblyInfo.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.RazorAssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\scopedcss\bundle\PresentationLayer.styles.css
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\staticwebassets\PresentationLayer.StaticWebAssets.Manifest.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\staticwebassets\PresentationLayer.StaticWebAssets.Pack.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.build.PresentationLayer.props
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PresentationLayer.props
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PresentationLayer.props
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.TagHelpers.input.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.TagHelpers.output.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.RazorCoreGenerate.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Account\CheckYourInbox.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\Datails.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\PartialViews\CreateEditDepatmentPartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\PartialViews\DatailsDeleteDepartmentPartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\Datails.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\CreateEditEmployeePartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\DatailsDeleteEmployeePartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\Datails.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\Edit.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\PartialViews\CreateEditRolePartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\PartialViews\DatailsDeleteRolePartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_ButtonsPartailView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\User\Datails.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\User\PartialViews\DatailsDeleteUserPartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.RazorTargetAssemblyInfo.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.RazorTargetAssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.Views.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.csproj.CopyComplete
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\refint\PresentationLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\PresentationLayer.genruntimeconfig.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\PresentationLayer\obj\Debug\net5.0\ref\PresentationLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\appsettings.Development.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\appsettings.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\libman.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\PresentationLayer.exe
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\PresentationLayer.deps.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\PresentationLayer.runtimeconfig.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\PresentationLayer.runtimeconfig.dev.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\PresentationLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\PresentationLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\mscorlib.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\netstandard.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.AppContext.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Buffers.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Collections.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Configuration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Console.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Data.Common.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Data.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Drawing.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Globalization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Compression.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Linq.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Memory.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Http.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Mail.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Ping.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Requests.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Security.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Numerics.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.ObjectModel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Claims.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Principal.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Text.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Transactions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.ValueTuple.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Web.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Windows.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\refs\WindowsBase.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\PresentationLayer.Views.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\PresentationLayer.Views.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\AutoMapper.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Humanizer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\Newtonsoft.Json.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\System.Composition.Convention.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\System.Composition.Hosting.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\System.Composition.Runtime.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\System.Composition.TypedParts.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\System.Runtime.Caching.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\BusinessLogicLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\DataAccessLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\BusinessLogicLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.AssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.RazorAssemblyInfo.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.RazorAssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\scopedcss\bundle\PresentationLayer.styles.css
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\staticwebassets\PresentationLayer.StaticWebAssets.Manifest.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\staticwebassets\PresentationLayer.StaticWebAssets.Pack.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.build.PresentationLayer.props
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PresentationLayer.props
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PresentationLayer.props
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.TagHelpers.input.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.TagHelpers.output.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.RazorCoreGenerate.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Account\CheckYourInbox.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\Datails.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\PartialViews\CreateEditDepatmentPartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Department\PartialViews\DatailsDeleteDepartmentPartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\Datails.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\CreateEditEmployeePartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\DatailsDeleteEmployeePartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\Datails.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\Edit.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\PartialViews\CreateEditRolePartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Role\PartialViews\DatailsDeleteRolePartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_ButtonsPartailView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\User\Datails.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\User\PartialViews\DatailsDeleteUserPartialView.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.RazorTargetAssemblyInfo.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.RazorTargetAssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.Views.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.csproj.CopyComplete
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\refint\PresentationLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\PresentationLayer.genruntimeconfig.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\PresentationLayer\obj\Debug\net5.0\ref\PresentationLayer.dll

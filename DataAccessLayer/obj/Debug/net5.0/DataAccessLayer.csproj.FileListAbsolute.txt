@@ -1,0 +1,24 @@
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\Crud-Operations-And-User-Manegment-master\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+A:\Pro_AspMvc\Crud-Operations-And-User-Manegment-master\User Managment and Crud Operation\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
